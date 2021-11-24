@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
-    "build": "snowpack build",
-    "dev": "snowpack dev"
+    "build": "webpack --watch",
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
