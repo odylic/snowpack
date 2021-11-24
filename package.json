@@ -1,0 +1,21 @@
+{
+  "name": "snowpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odylic/snowpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odylic/snowpack/issues"
+  },
+  "homepage": "https://github.com/odylic/snowpack#readme"
+}
